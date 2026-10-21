@@ -5,7 +5,7 @@ Deploy and share sites, apps, docs, and previews on [Spacefast](https://spacefas
 ## Install
 
 ```bash
-gemini extensions install https://github.com/spacefast/gemini-cli-extension
+gemini extensions install https://github.com/jgilmoreburke/gemini-cli-extension
 ```
 
 On first use, Gemini CLI will walk you through signing in to Spacefast (OAuth).
