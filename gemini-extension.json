@@ -1,0 +1,11 @@
+{
+  "name": "spacefast",
+  "version": "0.1.0",
+  "description": "Deploy and share sites, apps, docs and previews on Spacefast straight from Gemini CLI.",
+  "mcpServers": {
+    "spacefast": {
+      "httpUrl": "https://mcp.spacefast.com"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
